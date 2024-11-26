@@ -38,5 +38,5 @@ public class Vehiculo{
     public void setMotor(Motor motor) {
         this.motor = motor;
     }
-    
+
 }
